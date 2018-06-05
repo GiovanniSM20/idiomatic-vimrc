@@ -329,6 +329,18 @@ endif
 " you read and understand the plugin manager of your choice's README before
 " using it.
 
+" But we will make a slight comparison / introduction to plugin managers
+" If you want to use just because it's more easily or any stuff like that
+" Currently we have some that can be considered as the best known
+" - Neobundle
+" - Pathogen
+" - VAM
+" - Vim-plug
+" - Vundle
+
+" But what is the difference between the managers ?
+" In this case we will compare Plug and Vundle
+" Be first let's talk about points of Plug
 
 
 " SUGGESTED MINIMAL SETTINGS FOR PROGRAMMING (sets)
